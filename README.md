@@ -1,5 +1,3 @@
-# semester-project
-Semester Project Repository
 # Semester Project
 ## Instructions
 Begin by 
